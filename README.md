@@ -1,6 +1,10 @@
-# [WiseWallet Website]
+# WiseWallet Website
 
 Modified the code from Material Kit PRO React to create layout and design for the WiseWallet website.
+
+<img src="WiseWalletLandingPage.png" alt= "Landing Page"/>
+
+
 
 
 
