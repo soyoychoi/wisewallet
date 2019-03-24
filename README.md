@@ -2,7 +2,7 @@
 
 Modified the code from Material Kit PRO React to create layout and design for the WiseWallet website.
 
-![Screenshot](Screen Shot 2019-03-24 at 5.40.53 PM.png)
+![alt tag](Screen Shot 2019-03-24 at 5.40.53 PM.png)
 
 
 
